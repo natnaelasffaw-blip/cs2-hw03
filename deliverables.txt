@@ -1,0 +1,26 @@
+CS 20 — Assignment 2b Deliverables Worksheet
+Business: Twin
+
+URL for site: __________________________________________
+
+[x] HTML/CSS files included (zip this folder for Canvas)
+[x] Design document from Part 1 should also be uploaded to Canvas
+
+Requirements met:
+[x] At least 3 pages — 4 pages: Home, Find Your Twin, How It Works, Contact
+[x] At least 10 CSS style rules — style.css contains well over 10
+[x] Form — Contact page (contact.html), action="#"
+[x] Table or list — How It Works has a table; Home also has a list
+[x] Links with hover effect — navigation, footer links, and buttons throughout site
+[x] External stylesheet — style.css
+[x] Internal stylesheet — How It Works page (how.html)
+[x] At least two images, including a background image — hero-bg.jpg on Home is the background; roommates.jpg on Home is the second image
+[x] At least two fixed/consistent page elements — header/navigation and footer appear on every page
+[x] Responsive/mobile-friendly — viewport meta tag + media query in style.css
+
+Questions
+What was the most satisfying part of this assignment?
+The most satisfying part was turning the original Twin idea into a complete website that feels consistent across multiple pages. I especially liked seeing the navigation, roommate profiles, and responsive layout come together into something that looks like a real service rather than separate HTML exercises.
+
+What was the most challenging part of this assignment?
+The most challenging part was keeping the layout consistent while also meeting many different technical requirements. I had to think about how the external stylesheet, internal styles, form, table, images, hover effects, and mobile layout could all fit naturally into the same site instead of looking like features added only for the assignment.
